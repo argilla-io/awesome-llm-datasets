@@ -21,6 +21,27 @@ Follow and star for the latest and greatest links related to datasets for LLMs a
 
 ### 📚 For pre-training
 
+#### 2023
+
+**[RedPajama Data](https://github.com/togethercomputer/RedPajama-Data)** 1.2 Trillion tokens Dataset in English:
+
+| Dataset       | Token Count |
+|---------------|-------------|
+| Commoncrawl   | 878 Billion        |
+| C4            | 175 Billion        |
+| GitHub        | 59 Billion         |
+| Books         | 26 Billion         |
+| ArXiv         | 28 Billion         |
+| Wikipedia     | 24 Billion         |
+| StackExchange | 20 Billion         |
+| Total         | 1.2 Trillion      |
+
+
+**[RedPajama Data](https://github.com/togethercomputer/RedPajama-Data)**
+
+#### Before 2023
+
+
 ### 🗣️ For instruction-tuning
 
 ### 👩🤝🤖 For RLHF
