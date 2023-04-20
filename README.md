@@ -23,7 +23,9 @@ Follow and star for the latest and greatest links related to datasets for LLMs a
 
 #### 2023
 
-**[RedPajama Data](https://github.com/togethercomputer/RedPajama-Data)** 1.2 Trillion tokens Dataset in English:
+**[RedPajama Data](https://github.com/togethercomputer/RedPajama-Data)**:
+
+1.2 Trillion tokens Dataset in English:
 
 | Dataset       | Token Count |
 |---------------|-------------|
@@ -36,11 +38,11 @@ Follow and star for the latest and greatest links related to datasets for LLMs a
 | StackExchange | 20 Billion         |
 | Total         | 1.2 Trillion      |
 
+Also includes code for data preparation, deduplication, tokenization, and visualization.
 
-**[RedPajama Data](https://github.com/togethercomputer/RedPajama-Data)**
+Created by Ontocord.ai, MILA Québec AI Institute, ETH DS3Lab, Université de Montréal, Stanford Center for Research on Foundation Models (CRFM), Stanford Hazy Research research group and LAION.
 
 #### Before 2023
-
 
 ### 🗣️ For instruction-tuning
 
@@ -51,6 +53,8 @@ Follow and star for the latest and greatest links related to datasets for LLMs a
 ### 👽 For other purposes
 
 ## 🦾 Models and their datasets
+
+## 🧰 Tools and methods
 
 ## 📔 Papers
 
