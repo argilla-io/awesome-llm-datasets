@@ -7,14 +7,18 @@ Follow and star for the latest and greatest links related to datasets for LLMs a
 
 ## Table of Contents
 
-1. [Datasets](#📦datasets)
-    1. [For pre-training](#for-pre-training)
-    2. [For instruction-tuning](#for-instruction-tuning)
-    3. [For RLHF](#for-rlhf)
-    4. [For evaluation](#for-evaluation)
-    5. [For other purposes](#for-other-purposes)
-2. [Models and their datasets](#models-and-their-datasets)
-3. [Papers](#papers)
+1. [📦 Datasets](#📦-datasets)
+    1. [📚 For pre-training](#📚-for-pre-training)
+        1. [2023](#2023)
+        2. [Before 2023](#before-2023)
+    2. [🗣️ For instruction-tuning](#🗣️-for-instruction-tuning)
+    3. [👩🤝🤖 For RLHF](#👩🤝🤖-for-rlhf)
+    4. [⚖️ For evaluation](#⚖️-for-evaluation)
+    5. [👽 For other purposes](#👽-for-other-purposes)
+2. [🦾 Models and their datasets](#🦾-models-and-their-datasets)
+3. [🧰 Tools and methods](#🧰-tools-and-methods)
+4. [📔 Papers](#📔-papers)
+
 
 
 ## 📦 Datasets
