@@ -17,20 +17,20 @@ Follow and star for the latest and greatest links related to datasets for LLMs a
 3. [Papers](#papers)
 
 
-## Datasets
+## 📦 Datasets
 
-### For pre-training
+### 📚 For pre-training
 
-### For instruction-tuning
+### 🗣️ For instruction-tuning
 
-### For RLHF
+### 👩🤝🤖 For RLHF
 
-### For evaluation
+### ⚖️ For evaluation
 
-### For other purposes
+### 👽 For other purposes
 
-## Models and their datasets
+## 🦾 Models and their datasets
 
-## Papers
+## 📔 Papers
 
 
