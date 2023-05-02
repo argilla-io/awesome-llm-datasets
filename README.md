@@ -58,6 +58,88 @@ Created by Ontocord.ai, MILA Québec AI Institute, ETH DS3Lab, Université de Mo
 
 ## Models and their datasets
 
+### LLaMA
+
+Overview: A collection of open source foundation models ranging in size from 7B to 65B parameters
+released by Meta AI.
+
+License: Non-commercial bespoke (model), GPL-3.0 (code)
+
+📝 [Release blog post](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+📄 [arXiv publication](https://arxiv.org/abs/2302.13971)
+🃏 [Model card](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)
+
+### Vicuna
+
+Overview: A 13B parameter open source chatbot model fine-tuned on LLaMA and ~70k ChatGPT
+conversations that maintains 92% of ChatGPT’s performance and outperforms LLaMA and Alpaca.
+
+License: Non-commercial bespoke license (model), Apache 2.0 (code).
+
+📦 [Repo](https://github.com/lm-sys/FastChat#vicuna-weights)
+
+📝 [Release blog post](https://vicuna.lmsys.org/)
+
+🔗 [ShareGPT dataset](https://sharegpt.com/)
+
+🤗 [Models](https://huggingface.co/lmsys)
+
+🤖 [Gradio demo](https://chat.lmsys.org/)
+
+### Dolly 2.0
+
+Overview: A fully open source 12B parameter instruction-following LLM, fine-tuned on a
+human-generated instruction dataset licensed for research and commercial use.
+
+License: CC BY-SA 3.0 (model), CC BY-SA 3.0 (dataset), Apache 2.0 (code).
+
+📦 [Repo](https://github.com/databrickslabs/dolly)
+
+📝 [Release blog post](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) 
+
+🤗 [Models](https://huggingface.co/databricks)
+
+### LLaVA
+Overview: A multi-modal LLM that combines a vision encoder and Vicuna for general-purpose visual and
+language understanding, with capabilities similar to GPT-4.
+
+License: Non-commercial bespoke (model), CC BY NC 4.0 (dataset), Apache 2.0 (code).
+
+📦 [Repo](https://github.com/haotian-liu/LLaVA)
+
+📝 [Project homepage](https://llava-vl.github.io/)
+
+📄 [arXiv publication](https://arxiv.org/abs/2304.08485)
+
+🤗 [Dataset & models](https://huggingface.co/liuhaotian)
+
+🤖 [Gradio demo](https://llava.hliu.cc/)
+
+### StableLM
+
+Overview: A suite of low-parameter (3B, 7B) LLMs trained on a new dataset built on The Pile, with
+1.5 trillion tokens of content.
+
+License: CC BY-SA-4.0 (models).
+
+📦 [Repo](https://github.com/stability-AI/stableLM/)
+
+📝 [Release blog post](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
+
+🤗 [Models](https://huggingface.co/stabilityai)
+
+🤖 [Gradio demo](https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat)
+
+### Alpaca
+
+Overview: A partially open source instruction-following model fine-tuned on LLaMA which is smaller and cheaper and performs similarly to GPT-3.5.
+
+License: Non-commercial bespoke (model), CC BY-NC 4.0 (dataset), Apache 2.0 (code).
+
+📝 [Release blog post](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+
+🤗 [Dataset](https://huggingface.co/datasets/tatsu-lab/alpaca)
+
 ## Tools and methods
 
 ## Papers
